@@ -24,5 +24,13 @@ Total Loss: A weighted combination of content and style losses, minimized using 
 Optimization:
 A random image is initialized and iteratively updated using gradient descent to minimize the total loss and produce the stylized output.
 
+#Content image with name vv2.jpg
+![Image](https://github.com/user-attachments/assets/fc789e94-e91e-4e0d-8f3b-99cdab25b6a2)
+
+#Style image with name vv1.jpg
+![Image](https://github.com/user-attachments/assets/32f6f8a0-a1be-4e70-97ac-f4a1e4fed5b7)
+
 #output
+<img width="297" height="411" alt="Image" src="https://github.com/user-attachments/assets/caacc451-cf48-4126-bce7-5c74221c2591" />
+
 
