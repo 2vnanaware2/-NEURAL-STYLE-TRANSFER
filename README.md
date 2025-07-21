@@ -31,6 +31,7 @@ A random image is initialized and iteratively updated using gradient descent to 
 ![Image](https://github.com/user-attachments/assets/32f6f8a0-a1be-4e70-97ac-f4a1e4fed5b7)
 
 #output
+
 <img width="297" height="411" alt="Image" src="https://github.com/user-attachments/assets/caacc451-cf48-4126-bce7-5c74221c2591" />
 
 
